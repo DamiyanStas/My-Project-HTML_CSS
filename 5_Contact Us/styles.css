@@ -257,6 +257,7 @@ main {
     flex-direction: column;
     margin: 10px 10px;
     gap: 8px;
+    color: #9C9C9C;
 }
 
 label {
@@ -266,17 +267,30 @@ label {
 }
 
 input[type="text"] {
-    font-size: 18px;
+    font-family: "Sen", sans-serif;
+    font-size: 16px;
     height: 50px;
     padding-left: 10px;
     padding-right: 10px;
-    color: #aaaaaa;
+    color: #9C9C9C;
     border: none;
     border-radius: 4px;
     background-color: #ffffff;
 }
 
-
+/* ----------------------------- второй вариант строки сообщения ----------------------------------- */
+/* textarea {
+    max-width: 800px;
+    min-height: 140px;
+    border-radius: 4px;
+    border: none;
+    font-size: 16px;
+    font-family: "Sen", sans-serif;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #9C9C9C;
+} */
 
 .form-body {
     background-color: #232536;
