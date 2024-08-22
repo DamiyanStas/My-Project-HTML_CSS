@@ -246,10 +246,6 @@ main {
 
     .cards-gallery {
         width: 280px;
-
-        /* .card h3 {
-            font-size: 18px;
-        } */
     }
 
     .cards-gallery .card h3 {
@@ -362,15 +358,6 @@ h4 {
     gap: 20px;
     padding-top: 20px;
     padding-bottom: 20px;
-
-    /* h3 {
-        font-size: 32px;
-    } */
-
-    /* p {
-        font-size: 18px;
-        line-height: 30px;
-    } */
 }
 
 .block-banner h3 {
